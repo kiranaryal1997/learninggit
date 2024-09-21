@@ -1,5 +1,5 @@
 #creating a list for different greetings
-myGreetings = ["Good Morning", "Good Afternoon", "Good Evening", "Good Day", "Safe flight"]
+myGreetings = ["good morning", "good afternoon", "good evening", "good day", "safe flight"]
 # print(myGreetings)
 for greet in myGreetings:
     print(greet)
